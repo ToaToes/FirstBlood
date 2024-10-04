@@ -2,7 +2,7 @@
 A 3D shooting gaming built in Unity 3D with C# under mono framework. 5 layers with ai enemies
 
 
-</br>A very useful tool for Unity assets and LARGE FILE TRANSFERS: 
+</br>A very useful tool for Unity assets and LARGE FILE STORAGE: 
 ```
 https://github.com/github/gitignore/blob/main/Unity.gitignore
 ```
