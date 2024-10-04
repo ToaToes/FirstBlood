@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/SciFi_Space_Soldier_Complete/Scenes/DemoScene_Scripts.unity
+  isLoaded: 1
+  isActive: 1
