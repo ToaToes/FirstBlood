@@ -11,3 +11,12 @@ explaination in video:
 ```
 https://www.youtube.com/watch?v=LS1VI1Y8WTM
 ```
+
+```
+vim Unity.gitignore
+```
+copy the code
+```
+:wq
+```
+to save and close
